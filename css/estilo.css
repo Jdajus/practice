@@ -1,0 +1,43 @@
+*{
+    margin: 10px;
+}
+#principal{
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height: 600px;
+    background-color: coral;
+}
+#c1{
+    width: 560px;
+    height: 100px;
+    background-color: aqua;
+    margin: auto;
+}
+#c2{
+    width: 560px;
+    height: 100px;
+    background-color: blueviolet;
+}
+#c3{
+    float: left;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(35, 129, 71);
+}
+#c4{
+    float: right;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+}
+#c1_1{
+    
+    width: 200px;
+    height: 50px;
+    background-color: chartreuse;
+}
